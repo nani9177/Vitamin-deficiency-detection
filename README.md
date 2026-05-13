@@ -16,5 +16,9 @@ This project uses deep learning techniques to detect vitamin deficiencies from i
 ## Project Output
 ## Project Output
 
-![Output](https://github.com/user-attachments/assets/ad1e663e-adfb-4b7a-915d-7beaa3c33db4)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ad1e663e-adfb-4b7a-915d-7beaa3c33db4" width="400"/>
+</p>
+
+
 Mohan Reddy
