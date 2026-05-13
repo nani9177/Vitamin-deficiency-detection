@@ -1,17 +1,42 @@
-# Vitamin Deficiency Detection using Deep Learning
+# 🧠 Vitamin Deficiency Detection using Deep Learning
 
 This project uses deep learning techniques to detect vitamin deficiencies from image data.
 
-## Technologies Used
-- Python
-- TensorFlow / Keras
-- Deep Learning
-- CNN (MobileNet)
+---
 
-## Features
-- Image preprocessing
-- Model training and evaluation
-- Classification of vitamin deficiencies
+## 🚀 Features
+- Image preprocessing  
+- Model training and evaluation  
+- Classification of vitamin deficiencies  
+
+---
+
+## 🛠 Technologies Used
+- Python  
+- TensorFlow / Keras  
+- Deep Learning  
+- CNN (MobileNet)  
+
+---
+
+## 📊 Model Performance
+- Accuracy: 85% (update with your actual result)
+- Loss: 0.35 (optional)
+
+---
+
+## 📁 Dataset
+Dataset contains images of:
+- Vitamin A deficiency  
+- Vitamin B deficiency  
+- Vitamin C deficiency  
+- etc.
+
+---
+
+## ▶️ How to Run
+
+1. Clone the repository:
 
 ## Project Output
 
