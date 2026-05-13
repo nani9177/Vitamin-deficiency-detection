@@ -14,8 +14,8 @@ This project uses deep learning techniques to detect vitamin deficiencies from i
 - Classification of vitamin deficiencies
 
 ## Project Output
+## Project Output
 
-<img src="https://github.com/user-attachments/assets/136ffd15-9f81-410e-b6a9-5eddaf15e5d9" width="600"/>
-
+<img src="https://github.com/user-attachments/assets/cd1a..." width="600"/>
 ## Author
 Mohan Reddy
